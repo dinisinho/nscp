@@ -1,1 +1,3 @@
 # nscp
+
+Configuración NSCP base
